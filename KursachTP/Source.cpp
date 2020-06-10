@@ -23,9 +23,9 @@ int main() {
 	dataBase.add(&prdctn);
 
 	try {
-		salonCar.load("C:/Users/TP/salon.txt");
-		dbCar.load("C:/Users/TP/dealer.txt");
-		prdCar.load("C:/Users/TP/manufacture.txt");
+		salonCar.load("C:/Users/Public/TP/salon.txt");
+		dbCar.load("C:/Users/Public/TP/dealer.txt");
+		prdCar.load("C:/Users/Public/TP/manufacture.txt");
 	}
 	catch (exceptions& e) {
 		print_exp(e);
