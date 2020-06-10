@@ -142,7 +142,6 @@ int main() {
 
 
 
-
 	int xxccvv;
 	cin >> xxccvv;
 
