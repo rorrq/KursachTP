@@ -13,7 +13,7 @@ int main() {
 	bool FLAG = true;
 	KeeperCar salonCar, dbCar, prdCar;
 
-	system("color f0");
+	system("color f1");
 
 	handlerSalon salon(&salonCar);
 	handlerBase dataBase(&dbCar);
